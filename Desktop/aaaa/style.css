@@ -1,0 +1,14 @@
+body {
+    background: url(./aa.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+h1{
+    display: inline;
+    display: flex;
+    align-items: center;
+    
+}
